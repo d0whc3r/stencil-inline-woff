@@ -27,7 +27,7 @@ Import the plugin on your `stencil.config.ts` file and add the `inlineFile` func
 
 ```javascript
 import { Config } from '@stencil/core';
-import { inlineFonts } from '@d0whc3r/stencil-inline-fonts';
+import { inlineFile } from '@d0whc3r/stencil-inline-file';
 
 export const config: Config = {
   namespace: 'mycomponent',
