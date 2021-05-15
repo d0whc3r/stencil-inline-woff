@@ -34,7 +34,7 @@
     "url": "git+https://github.com/d0whc3r/stencil-inline-file"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.6",
+    "@types/jest": "26.0.23",
     "@types/mime": "^2.0.1",
     "@types/node": "^11.9.4",
     "jest": "^24.1.0",
