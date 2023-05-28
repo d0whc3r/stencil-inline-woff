@@ -35,7 +35,7 @@
   },
   "devDependencies": {
     "@types/jest": "^24.0.6",
-    "@types/mime": "^2.0.1",
+    "@types/mime": "^3.0.0",
     "@types/node": "^11.9.4",
     "jest": "^24.1.0",
     "np": "^4.0.2",
@@ -47,6 +47,6 @@
     "typescript": "^3.3.3"
   },
   "dependencies": {
-    "mime": "^2.4.3"
+    "mime": "^3.0.0"
   }
 }
