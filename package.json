@@ -34,14 +34,14 @@
     "url": "git+https://github.com/d0whc3r/stencil-inline-file"
   },
   "devDependencies": {
-    "@types/jest": "^24.0.6",
+    "@types/jest": "^29.0.0",
     "@types/mime": "^2.0.1",
     "@types/node": "^11.9.4",
-    "jest": "^24.1.0",
+    "jest": "^29.0.0",
     "np": "^4.0.2",
     "rimraf": "^2.6.3",
     "rollup": "^1.2.2",
-    "ts-jest": "^24.0.0",
+    "ts-jest": "^29.0.0",
     "tslint": "^5.12.1",
     "tslint-ionic-rules": "0.0.21",
     "typescript": "^3.3.3"
